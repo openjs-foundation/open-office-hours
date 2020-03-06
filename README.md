@@ -5,3 +5,14 @@ A space to encourage, onboard, enable, and support new and existing contributors
 Meetings are bi-weekly every other Thursday at 1pm ET. See the calendar: https://calendar.openjsf.org
 
 https://zoom.us/j/478648416
+
+## Upcoming events
+
+| Date | Session |
+| ---- | ------- |
+| 2020-03-12 | Open |
+| 2020-03-26 | ESLint |
+| 2020-04-09 | Open |
+| 2020-04-23 | Open |
+| 2020-05-07 | Open |
+| 2020-05-21 | Open |
