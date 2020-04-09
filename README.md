@@ -4,7 +4,7 @@ A space to encourage, onboard, enable, and support new and existing contributors
 
 Meetings are bi-weekly every other Thursday at 1pm ET. See the calendar: https://calendar.openjsf.org
 
-Join Meeting: https://zoom.us/j/478648416 
+Join Meeting: https://zoom.us/j/478648416  
 Watch livestream: https://livestream.openjsf.org
 
 Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, etc.: https://openjsf.org/collaborate
