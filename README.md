@@ -4,15 +4,19 @@ A space to encourage, onboard, enable, and support new and existing contributors
 
 Meetings are bi-weekly every other Thursday at 1pm ET. See the calendar: https://calendar.openjsf.org
 
-https://zoom.us/j/478648416
+Join Meeting: https://zoom.us/j/478648416
+Watch livestream: https://livestream.openjsf.org
+
+Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, etc.: https://openjsf.org/collaborate
 
 ## Upcoming events
 
-| Date | Session |
-| ---- | ------- |
-| 2020-03-12 | Open |
-| 2020-03-26 | ESLint |
-| 2020-04-09 | Open |
-| 2020-04-23 | Open |
-| 2020-05-07 | Open |
-| 2020-05-21 | Open |
+| Date       | Session | Recorded Stream |
+| ---------- | ------- | --------------- |
+| 2020-02-27 | Express | https://www.youtube.com/watch?v=OfFpI3vZlhY |
+| 2020-03-12 | Open    |                 |
+| 2020-03-26 | ESLint  | https://www.youtube.com/watch?v=v1xNRUPjzzo |
+| 2020-04-09 | Open    |                 |
+| 2020-04-23 | Open.   |                 |
+| 2020-05-07 | Open    |                 |
+| 2020-05-21 | Open    |                 |
