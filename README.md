@@ -17,6 +17,6 @@ Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, et
 | 2020-03-12 | Open    |                 |
 | 2020-03-26 | ESLint  | https://www.youtube.com/watch?v=v1xNRUPjzzo |
 | 2020-04-09 | Open    |                 |
-| 2020-04-23 | Open.   |                 |
+| 2020-04-23 | Open    | Canceled        |
 | 2020-05-07 | Open    |                 |
 | 2020-05-21 | Open    |                 |
