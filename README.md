@@ -19,4 +19,5 @@ Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, et
 | 2020-04-09 | Open         |                 |
 | 2020-04-23 | Open         | Canceled        |
 | 2020-05-07 | Contributing | Saulo Nunes, Node.js Mentorship, speaks about contributing |
-| 2020-05-21 | Open         |                 |
+| 2020-05-21 | Node.js i18n | Alexandr Tovmach, Node.js i18n initiative |
+| 2020-06-05 | Open         |                 |
