@@ -9,6 +9,8 @@ Watch livestream: https://livestream.openjsf.org
 
 Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, etc.: https://openjsf.org/collaborate
 
+Join the #open-office-hours Slack channel in the OpenJS Slack org ☝️
+
 ## Schedule
 
 | Date       | Session      | Details         |
