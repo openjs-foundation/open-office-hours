@@ -9,7 +9,7 @@ Watch livestream: https://livestream.openjsf.org
 
 Collaboration links for OpenJS Foundation, including Slack, Github, Calendar, etc.: https://openjsf.org/collaborate
 
-## Upcoming events
+## Schedule
 
 | Date       | Session      | Details         |
 | ---------- | -------      | --------------- |
